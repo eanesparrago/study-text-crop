@@ -4,6 +4,8 @@ I've recently come across this article https://medium.com/eightshapes-llc/croppi
 
 In this React project I've translated the utility function in the article for use with styled-components. This comes very useful for laying out UIs with with precision.
 
+Demo: https://ljesp.github.io/study-text-crop/
+
 ![image](https://user-images.githubusercontent.com/36854142/51173988-abcc7900-18f1-11e9-96a6-565cf9c28a8a.png)
 
 --- 
