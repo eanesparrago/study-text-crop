@@ -1,11 +1,11 @@
 {
-  "main.js": "/static/js/main.d7e99e05.chunk.js",
-  "main.js.map": "/static/js/main.d7e99e05.chunk.js.map",
-  "static/js/1.472721ec.chunk.js": "/static/js/1.472721ec.chunk.js",
-  "static/js/1.472721ec.chunk.js.map": "/static/js/1.472721ec.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "index.html": "/index.html",
-  "precache-manifest.bf04408193c45141d8b64c0ef6c3ce60.js": "/precache-manifest.bf04408193c45141d8b64c0ef6c3ce60.js",
-  "service-worker.js": "/service-worker.js"
+  "main.js": "/study-text-crop/static/js/main.cc168485.chunk.js",
+  "main.js.map": "/study-text-crop/static/js/main.cc168485.chunk.js.map",
+  "static/js/1.8f27fd65.chunk.js": "/study-text-crop/static/js/1.8f27fd65.chunk.js",
+  "static/js/1.8f27fd65.chunk.js.map": "/study-text-crop/static/js/1.8f27fd65.chunk.js.map",
+  "runtime~main.js": "/study-text-crop/static/js/runtime~main.5587b440.js",
+  "runtime~main.js.map": "/study-text-crop/static/js/runtime~main.5587b440.js.map",
+  "index.html": "/study-text-crop/index.html",
+  "precache-manifest.8d2f5ab980544937fd2ffde0b5552329.js": "/study-text-crop/precache-manifest.8d2f5ab980544937fd2ffde0b5552329.js",
+  "service-worker.js": "/study-text-crop/service-worker.js"
 }
